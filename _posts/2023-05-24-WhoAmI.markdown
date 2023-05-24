@@ -2,7 +2,7 @@
 layout: post
 title:  "WhoAmI"
 date:   2023-05-24 11:52:41 +0700
-categories: whoami
+categories: jekyll update
 ---
 
-hi, my name is Robby aprianto
+hi, my name is {% highlight ruby %} Robby aprianto {% endhighlight%}
