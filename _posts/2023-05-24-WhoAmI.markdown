@@ -1,8 +1,0 @@
----
-layout: post
-title:  "WhoAmI"
-date:   2023-05-24 11:52:41 +0700
-categories: whoami
----
-
-hi, my name is {% highlight ruby %} Robby aprianto {% endhighlight%}
