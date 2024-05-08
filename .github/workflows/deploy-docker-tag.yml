@@ -30,7 +30,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: masrobby/masrobby.github.io
+          images: amirpourmand/al-folio
 
       - name: Login
         uses: docker/login-action@v3
