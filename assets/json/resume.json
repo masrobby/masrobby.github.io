@@ -23,21 +23,21 @@
     {
       "name": "PT. Mora Telematika Indonesia",
       "position": "Network Operation Center (NOC)",
-      "startDate": "January 2018",
-      "endDate": "October 2018",
+      "startDate": "2018",
+      "endDate": "2018",
       "summary": "As a Network Operation Center (NOC) professional, I am dedicated to ensuring seamless connectivity and operational stability. With a keen eye for detail and extensive experience in network monitoring and troubleshooting, I excel in detecting and resolving issues promptly to minimize downtime and optimize performance. My proactive approach and dedication to maintaining robust networks make me an invaluable asset in the fast-paced world of IT infrastructure management."
     },
       {
       "name": "PT. Indofun Digital Technology",
       "position": "System Administrator",
-      "startDate": "October 2018",
-      "endDate": "June 2020",
+      "startDate": "2018",
+      "endDate": "2020",
       "summary": "As a System Administrator within a publisher game company, I specialize in maintaining the backbone of our gaming infrastructure. My responsibilities encompass ensuring the reliability, security, and scalability of the systems that power our games, from servers to databases and everything in between. With a focus on performance optimization and proactive monitoring, I strive to provide an uninterrupted gaming experience for our players. Leveraging my expertise in network administration, cloud computing, and system automation, I play a vital role in supporting the development and delivery of cutting-edge gaming experiences."
     },
       {
       "name": "PT. Elabram Systems",
       "position": "System Engineer",
-      "startDate": "June 2020",
+      "startDate": "2020",
       "endDate": "Now",
       "summary": "As a System Engineer employed by eLabram and placed within the Huawei office, my role revolves around crafting and implementing robust technological solutions to meet the dynamic needs of Huawei's infrastructure. Tasked with optimizing network architecture, enhancing cybersecurity measures, and ensuring seamless system integration, I thrive in fast-paced environments where innovation and efficiency are paramount. Leveraging my expertise in systems engineering and collaborative prowess, I bridge the gap between eLabram's technical prowess and Huawei's strategic objectives, driving forward-thinking solutions that propel business success and technological advancement."
     }
@@ -90,18 +90,6 @@
         "Bash",
         "HTML"
       ]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Star Formation",
-      "icon": "fa-regular fa-star",
-      "keywords": ["High-mass Star Formation", "Young Stellar Objects", "Masers", "VLBI", "Molecular Clouds"]
-    },
-    {
-      "name": "Data Science",
-      "icon": "fa-regular fa-database",
-      "keywords": ["Parametric Fitting", "Data Visualization", "Machine Learning", "Web Scraping"]
     }
   ],
   "projects": [
