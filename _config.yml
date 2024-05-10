@@ -68,13 +68,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: masrobby # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: robebeye # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
-telegram_username: # your Telegram user name
+linkedin_username: robebeye # your LinkedIn user name
+telegram_username: zapriant # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: 6282215100421 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -96,7 +96,7 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: robbyyapr # your instagram id
-facebook_id: # your facebook id
+facebook_id: robebeye # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
@@ -282,8 +282,8 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Nazri]
-  first_name: [Affan Adly]
+  last_name: [Aprianto]
+  first_name: [Robby]
 
   style: apa
   locale: en
