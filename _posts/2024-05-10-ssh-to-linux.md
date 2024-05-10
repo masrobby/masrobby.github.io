@@ -14,13 +14,13 @@ On your local machine, whether it's running Linux, macOS, or Windows (using a to
 ## Step 2: Use the SSH Command
 Once you have the terminal open, use the ssh command followed by the username and the IP address or domain name of the server you want to connect to. The basic syntax is:
 
-```yml
+```bash
 ssh username@server_ip_or_domain
 ```
 
 For example:
 
-```yml
+```bash
 ssh ssh john@example.com
 ```
 
