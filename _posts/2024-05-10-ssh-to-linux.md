@@ -16,24 +16,19 @@ Once you have the terminal open, use the ssh command followed by the username an
 
 ```yml
 ssh username@server_ip_or_domain
-ssh robby@192.168.1.1
 ```
 
-      ```c
-      ssh username@server_ip_or_domain
-      ```
-      
 For example:
 
-      ```bash
-      ssh ssh john@example.com
-      ```
+```yml
+ssh ssh john@example.com
+```
 
 If the server uses a non-standard SSH port (not the default port 22), you can specify it with the -p flag followed by the port number. For example:
 
-      ```bash
-      ssh -p 2222 john@example.com
-      ```
+```bash
+ssh -p 2222 john@example.com
+```
 
 ## Step 3: Enter Your Password (If Required)
 If this is your first time connecting to the server from your local machine, you may be prompted to confirm the server's fingerprint. Once confirmed, you'll then be prompted to enter the password for the username you provided. Note that when typing your password, you won't see any characters on the screen.
@@ -47,9 +42,9 @@ Now that you're connected, you can perform various tasks on the server just like
 ## Step 6: Exiting the SSH Session
 To exit the SSH session and return to your local machine's command prompt, simply type:
 
-      ```bash
-      exit
-      ```
+```bash
+exit
+```
 
 And press Enter. This will close the connection to the server.
 
