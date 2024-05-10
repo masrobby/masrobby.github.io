@@ -11,13 +11,13 @@ Here's a simple guide on how to SSH into a Linux server:
 ## Step 1: Open a Terminal
 On your local machine, whether it's running Linux, macOS, or Windows (using a tool like PuTTY), open a terminal or command prompt.
 
-```yml
-ssh robby@serverku.com
-ssh robby@192.168.1.1
-```
-
 ## Step 2: Use the SSH Command
 Once you have the terminal open, use the ssh command followed by the username and the IP address or domain name of the server you want to connect to. The basic syntax is:
+
+```yml
+ssh username@server_ip_or_domain
+ssh robby@192.168.1.1
+```
 
       ```c
       ssh username@server_ip_or_domain
