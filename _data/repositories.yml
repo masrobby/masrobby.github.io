@@ -1,7 +1,6 @@
 github_users:
-  - affanadly
+  - masrobby
 
 github_repos:
-  - affanadly/Ellipse-Fit-Uncertainty
-  - affanadly/Random-Astro-Utils
-  - affanadly/PoLaR-BEAR
+  - masrobby/OWrt-x86
+  - masrobby/OpenWRT-x86_generic
