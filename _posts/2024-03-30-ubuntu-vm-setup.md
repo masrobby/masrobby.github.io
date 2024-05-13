@@ -4,7 +4,6 @@ title: Setting up a Ubuntu 22.04 LTS VM in Oracle Virtualbox
 date: 2024-03-30 12:00:00
 tags: vm linux setup
 categories: guide
-featured: true
 ---
 
 This is how I setup my Ubuntu 22.04 LTS VM every time I need to work on a fresh installation.
