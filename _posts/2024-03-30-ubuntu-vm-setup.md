@@ -19,7 +19,7 @@ This is how I setup my Ubuntu 22.04 LTS VM every time I need to work on a fresh 
 
 1. Select the US-US keyboard layout.
 2. Select the minimal installation option.
-3. Select the Kuala Lumpur, Malaysia region.
+3. Select the Jakarta, Indonesia region.
 4. By default, I set the passwords of my VM to 0000 and enable automatic login.
 
 ## Post-Installation
