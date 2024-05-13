@@ -4,6 +4,7 @@ title: Simple guide on how to SSH into a Linux server
 date: 2024-05-10 10:35:00
 tags: ssh into linux
 categories: guide
+featured: true
 ---
 
 Here's a simple guide on how to SSH into a Linux server:
