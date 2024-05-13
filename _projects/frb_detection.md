@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Streamlining Server Management: A Proxmox and MikroTik Integration Project
+title: Streamlining Server Management - A Proxmox and MikroTik Integration Project
 description: at Cliste Rekayasa Indonesia
 img: /assets/img/projects/frb_detection/Proxmox-VE-8-0.png
 related_publications: true
