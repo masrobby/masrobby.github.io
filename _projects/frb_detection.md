@@ -1,45 +1,51 @@
 ---
 layout: page
-title: Detection of Fast Radio Bursts
-description: My B.Sc. Final Year Project
-img: /assets/img/projects/frb_detection/artists_impression.jpg
+title: Streamlining Server Management: A Proxmox and MikroTik Integration Project
+description: at Cliste Rekayasa Indonesia
+img: /assets/img/projects/frb_detection/Proxmox-VE-8-0.png
 related_publications: true
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/frb_detection/artists_impression.jpg" title="Artist's impression of a Fast Radio Burst" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/frb_detection/Proxmox-VE-8-0.png" title="A Proxmox and MikroTik Integration Project" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Artist's impression of a Fast Radio Burst. Image credit: CSIRO/Dr. Andrew Howells
+    Streamlining Server Management: A Proxmox and MikroTik Integration Project
 </div>
 
-Fast Radio Bursts (FRBs) are brief, bright flashes of radio waves that last only a few milliseconds of extragalactic origin. They are one of the most mysterious phenomena in astrophysics, and their progenitor(s) are still unknown.
+In today’s fast-paced digital landscape, businesses rely heavily on efficient server management solutions to streamline their operations. Recently, our team embarked on an exciting project aimed at enhancing our client’s infrastructure by installing a new server environment. Leveraging the power of Proxmox for virtualization and MikroTik for network configuration, we aimed to deliver a robust and scalable solution tailored to our client’s needs.
 
-The key characteristic of FRBs is their dispersion measure (DM) i.e. the frequency dependent delay due to electrons in the line of sight, and FRBs have DMs more than the Galactic contribution. DMs allow for study of FRBs' host galaxies, and combined with their polarization properties measured using rotation measure (RM), magnetars are thought to be the best candidate for FRB progenitors.
+Introduction:
+Our client, a growing business in the IT sector, faced challenges with their existing server setup. They required a solution that not only optimized performance but also offered flexibility and security. After thorough consultation and assessment, we proposed the implementation of Proxmox virtualization platform coupled with MikroTik networking equipment to meet their requirements.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/frb_detection/lorimer.jpg" title="Lorimer Burst" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Waterfall plot of the first FRB discovered, FRB 010724.
-</div>
+Project Objectives:
 
-The first FRB was discovered while reviewing data in radio pulsar surveys taken using the Parkes Telescope {% cite Lorimer2007 --file references %}. Since then, hundreds of FRBs have been discovered, especially using instruments with large FOVs such as the Five-hundred-meter Aperture Spherical Telescope (FAST) and the Canadian Hydrogen Intensity Mapping Experiment (CHIME).
+Deploy a Proxmox server environment to enable efficient virtualization.
+Integrate MikroTik routers for network management and security.
+Ensure seamless communication between virtual machines and external networks.
+Implement robust backup and disaster recovery solutions.
+Implementation Process:
 
-Previously, FRB detection are performed using pulsar signal processing programs (e.g. SIGPROC and PRESTO). Currently, there are various FRB detection codes available, mainly optimizing the computationally intensive dedispersion process e.g. using GPUs and bonsai algorithms. One of them is the Burst Emission Automatic Roger (BEAR) program, which is a standalone C++ pipeline for FRB detection developed for various Chinese telescopes {% cite Men2019 --file references %}.
+Planning and Preparation: We began by conducting detailed planning sessions to identify the client’s specific needs and goals. This involved assessing their existing infrastructure, determining resource requirements, and outlining the migration strategy.
 
-I researched on developing and improving FRB detection codes, and wrote a standablone Python FRB detection program named the Python Language Radio Burst Emission Automatic Roger (PoLaR BEAR) based on BEAR. A repository of the script and my thesis is avaiable on [GitHub](https://github.com/affanadly/PoLaR-BEAR).
+Proxmox Installation: With the planning phase complete, we proceeded to install and configure the Proxmox virtualization platform on the designated server hardware. Proxmox’s intuitive interface and comprehensive features allowed us to set up virtual environments efficiently.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/frb_detection/polar_bear.jpeg" title="PoLaR BEAR Output" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Example output of PoLaR BEAR for FRB121102
-</div>
+Virtual Machine Deployment: Next, we created virtual machines (VMs) within the Proxmox environment to host the client’s applications and services. Each VM was carefully configured to optimize performance and resource utilization.
+
+MikroTik Integration: Concurrently, we integrated MikroTik routers into the network infrastructure to manage routing, firewall, and network address translation (NAT) functionalities. MikroTik’s robust feature set provided granular control over network traffic and enhanced security.
+
+Configuration and Testing: Once the Proxmox and MikroTik components were in place, we meticulously configured network settings, security policies, and virtual machine connectivity. Rigorous testing was conducted to ensure seamless communication between VMs and external networks, as well as robust security measures.
+
+Training and Handover: As part of our commitment to client satisfaction, we provided comprehensive training sessions to familiarize the client’s IT team with the new server environment. Additionally, we documented the configuration settings and provided ongoing support to address any post-deployment issues.
+
+Benefits and Outcomes:
+
+Improved Performance: The implementation of Proxmox virtualization allowed for efficient resource allocation and enhanced performance across the client’s applications and services.
+Enhanced Security: MikroTik’s advanced firewall and security features bolstered the network infrastructure, safeguarding against potential threats and vulnerabilities.
+Scalability: The modular architecture of Proxmox and MikroTik enabled easy scalability to accommodate future growth and expansion.
+Cost Savings: By consolidating multiple physical servers into a virtualized environment, the client realized significant cost savings in terms of hardware, maintenance, and energy consumption.
+Conclusion:
+In conclusion, the successful execution of the Proxmox and MikroTik integration project has empowered our client with a resilient and high-performance server environment. By leveraging cutting-edge technologies and best practices, we have not only addressed their immediate needs but also positioned them for future success in a rapidly evolving digital landscape. We remain committed to delivering innovative solutions that drive efficiency, security, and scalability for our clients.
 
