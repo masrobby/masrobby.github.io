@@ -7,7 +7,6 @@ categories: guide
 toc:
   beginning: true
 ---
----
 
 Installing a LEMP (Linux, Nginx, MySQL/MariaDB, PHP) stack on a Linux server is a popular choice for hosting dynamic websites and web applications. Here's a step-by-step guide on how to install LEMP:
 
