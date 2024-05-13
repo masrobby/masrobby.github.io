@@ -4,8 +4,7 @@ title: Installing a LEMP (Linux, Nginx, MySQL/MariaDB, PHP)
 date: 2024-05-10 10:50:00
 tags: lemp
 categories: guide
-toc:
-  beginning: true
+featured: true
 ---
 
 Installing a LEMP (Linux, Nginx, MySQL/MariaDB, PHP) stack on a Linux server is a popular choice for hosting dynamic websites and web applications. Here's a step-by-step guide on how to install LEMP:
