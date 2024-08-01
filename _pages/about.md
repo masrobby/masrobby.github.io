@@ -6,7 +6,7 @@ subtitle: <a href='https://linkedin.com/in/robebeye'>System Engineer, Huawei Tec
 
 profile:
   align: center
-  image: prof_pic.jpg
+  image: foto.jpg
   image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
